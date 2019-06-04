@@ -1,0 +1,2 @@
+nteventlogappendertestcase.o nteventlogappendertestcase.o:  \
+ nt/nteventlogappendertestcase.cpp

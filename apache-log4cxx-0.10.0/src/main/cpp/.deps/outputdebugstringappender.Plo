@@ -1,0 +1,2 @@
+outputdebugstringappender.lo outputdebugstringappender.o:  \
+ outputdebugstringappender.cpp
